@@ -11,6 +11,10 @@
  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
 </a>
 
+<a href="https://github.com/charles-bezerra">
+ <img src="https://img.shields.io/github/followers/charles-bezerra?style=social"/>
+</a>
+
 ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
 
 
