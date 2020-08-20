@@ -16,11 +16,6 @@
     link = "//www.linkedin.com/in/charles-bezerra-de-oliveira-junior-6b6356169/"
 
  [[params.social]]
-    icon = ""
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAME"
-    
- [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/charles-bezerra"
