@@ -7,18 +7,19 @@
 - [x] I’m currently learning web development
 
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
-
-
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//www.linkedin.com/in/charles-bezerra-de-oliveira-junior-6b6356169/"
+    link = "https://www.linkedin.com/in/charles-bezerra-de-oliveira-junior-6b6356169/"
 
  [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/charles-bezerra"
+    link = "https://github.com/charles-bezerra"
+
+
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
+
 
 <!--
 **charles-bezerra/charles-bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
