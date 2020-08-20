@@ -12,7 +12,7 @@
 </a>
 
 <a href="mailto:charlesbezerra5@gmail.com">
- <img src="https://img.shields.io/static/v1?label=&message=Mail&style=flat-square&logo=GMAIL"/>
+ <img src="https://img.shields.io/badge/-Mail-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/charles-bezerra">
