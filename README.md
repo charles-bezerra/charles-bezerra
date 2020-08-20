@@ -11,6 +11,10 @@
  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
 </a>
 
+<a href="mailto:charlesbezerra5@gmail.com">
+ <img src="https://img.shields.io/static/v1?label=&message=Mail&color=red&style=flat-square&logo=GMAIL"/>
+</a>
+
 <a href="https://github.com/charles-bezerra">
  <img src="https://img.shields.io/github/followers/charles-bezerra?style=social"/>
 </a>
