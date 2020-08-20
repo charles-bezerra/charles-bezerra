@@ -7,13 +7,9 @@
 - [x] I’m currently learning web development
 
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/charles-bezerra-de-oliveira-junior-6b6356169/"
-
-<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
-
+<a href="https://www.linkedin.com/in/charles-bezerra">
+ <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
+</a>
 
 ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
 
