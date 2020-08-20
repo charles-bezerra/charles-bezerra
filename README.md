@@ -12,13 +12,10 @@
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/charles-bezerra-de-oliveira-junior-6b6356169/"
 
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/charles-bezerra"
+<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
 
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=onedark)
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
 
 
 <!--
