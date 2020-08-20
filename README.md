@@ -18,7 +18,7 @@
     link = "https://github.com/charles-bezerra"
 
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=onedark)
 
 
 <!--
