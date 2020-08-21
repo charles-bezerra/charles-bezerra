@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 - [x] I'm Brazilian and Northeastern
 
