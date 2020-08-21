@@ -21,7 +21,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&hide=html,css$layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
