@@ -21,11 +21,11 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&hide=html,css&count_private=true$layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&hide=html,css$layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula&count_private=true)
 
 
 <!--
