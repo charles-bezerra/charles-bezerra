@@ -19,9 +19,10 @@
  <img src="https://img.shields.io/github/followers/charles-bezerra?style=social"/>
 </a>
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
 
 
 <!--
