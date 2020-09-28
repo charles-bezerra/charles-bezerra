@@ -12,7 +12,7 @@
 
 
 
-![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula&count_private=true)
+![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
 
 
 <a href="https://www.linkedin.com/in/charles-bezerra">
