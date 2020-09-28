@@ -8,13 +8,11 @@
 
 
 
-<div style="displey: flex; width: 100%; flex-direction: row"> 
  
  [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula)
+ ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&show_icons=true&theme=dracula&bg_color=black)
 
-</div>
 
 <a href="https://www.linkedin.com/in/charles-bezerra">
  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
