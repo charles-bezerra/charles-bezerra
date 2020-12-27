@@ -2,7 +2,7 @@
 
 - [x] I'm Brazilian and Northeastern
 
-- [x] I’m currently working at Essenceit
+- [x] I’m currently working at Stefanini
 
 - [x] I’m currently learning web development
 
