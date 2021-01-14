@@ -4,7 +4,7 @@
 
 - [x] I’m currently working at Stefanini
 
-- [x] I’m currently learning web development
+- [x] I’m currently learning IA
 
 
 
