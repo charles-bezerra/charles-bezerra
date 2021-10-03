@@ -9,10 +9,13 @@
 
 <div id="changes" style="display:flex; flex-direction:row; justify-content:space-between; width: 100%;">
  
- [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
- ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
+  <div style="width: 40%">
+   [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  
+  <div style="width: 40%">
+   ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  </div>
 </div>
 
 <a href="https://www.linkedin.com/in/charles-bezerra">
