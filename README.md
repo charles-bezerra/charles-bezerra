@@ -7,12 +7,13 @@
 - [x] I’m currently learning IA
 
 
-
+<div style="display: flex; flex-direction: row; justify-content: space-between">
  
  [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
  ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
+</div>
 
 <a href="https://www.linkedin.com/in/charles-bezerra">
  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LINKEDIN"/>
