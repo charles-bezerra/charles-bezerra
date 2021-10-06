@@ -2,9 +2,9 @@
 
 - [x] I'm Brazilian and Northeastern
 
-- [x] I’m currently working at Meta and Olist
+- [x] I’m currently working at Hospital Israelita Albert Einstein
 
-- [x] I’m currently learning IA
+- [x] I’m currently learning IA and Back-end
 
 
 ![Charles Bezerra's github stats](https://github-readme-stats.vercel.app/api?username=charles-bezerra&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515).               [![Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-bezerra&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
